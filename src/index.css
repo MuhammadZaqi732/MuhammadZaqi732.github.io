@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 🌌 Tema biru elegan seperti portofolio lama */
+body {@apply text-white min-h-screen;font-family: 'Poppins', sans-serif;background: linear-gradient(180deg, #1e3a8a 0%, #1d4ed8 35%, #111827 100%);background-attachment: fixed;background-size: cover;}
+
+/* 🌫️ Efek glass transparan */
+.glass {background: rgba(255, 255, 255, 0.08);backdrop-filter: blur(20px);border: 1px solid rgba(255, 255, 255, 0.15);box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);border-radius: 1rem;}
+
+/* 🎨 Warna teks tambahan */
+.text-soft { color: #cbd5e1; } /* abu lembut */
+.text-accent { color: #38bdf8; } /* biru muda */
+.text-pinkish { color: #f9a8d4; } /* pink lembut */
+
+/* 💫 Tombol dengan efek hover halus */
+.btn {@apply px-4 py-2 rounded-full font-medium transition-all duration-300;}
+.btn-primary {@apply bg-blue-600 hover:bg-blue-700 text-white;}
+.btn-outline {@apply bg-white/10 hover:bg-white/20 text-white;}
+
+/* 🌈 Card shadow lembut */
+.card {@apply rounded-xl p-6 shadow-lg shadow-blue-900/30;}
+
+/* 🔹 Skill chips */
+.skill-chips span {@apply px-3 py-1 bg-blue-500/30 rounded-full text-sm text-white border border-white/10 hover:bg-blue-600/40 transition;}
+
+/* 🔹 Tab button portfolio */
+.tab-btn {@apply px-4 py-2 rounded-full text-sm font-medium transition-all duration-300 bg-white/10 hover:bg-white/20;}
+.tab-btn.active {@apply bg-gradient-to-r from-blue-500 to-cyan-400 text-white shadow-lg;}
+.tech-card {transition: all 0.3s ease;}
+.tech-card:hover {transform: translateY(-3px);}
