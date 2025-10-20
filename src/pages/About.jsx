@@ -11,7 +11,7 @@ const About = () => {
       <section className="grid grid-cols-1 md:grid-cols-3 gap-8 items-start">
         <div className="flex flex-col items-center">
           <div className="w-48 h-48 rounded-xl ring-4 ring-sky-400 ring-offset-2 ring-offset-transparent overflow-hidden shadow-xl shadow-sky-500/20">
-            <img src="/assets/profile.jpg" alt="Profile" className="w-full h-full object-cover" />
+            <img src="./assets/profile.jpg" alt="Profile" className="w-full h-full object-cover" />
           </div>
           <h2 className="mt-6 text-2xl font-bold">Muhammad Zaqi</h2>
           <div className="mt-2 px-4 py-2 bg-white/50 rounded-full text-sm">Quality Assurance</div>
