@@ -10,7 +10,7 @@ const Footer = () => (
         <a href="https://github.com/MuhammadZaqi732" target="_blank" rel="noreferrer" className="fab fa-github w-10 h-10 flex items-center justify-center rounded-full bg-white/10 hover:bg-gray-500/40 transition-all duration-300"></a>
         <a href="https://www.instagram.com/zakyy.m" target="_blank" rel="noreferrer" className="fab fa-instagram w-10 h-10 flex items-center justify-center rounded-full bg-white/10 hover:bg-pink-500/40 transition-all duration-300"></a>
         <a href="https://www.facebook.com/prince.zaqi.2025?locale=id_ID" target="_blank" rel="noreferrer" className="fab fa-facebook w-10 h-10 flex items-center justify-center rounded-full bg-white/10 hover:bg-blue-500/40 transition-all duration-300"></a>
-        <a href="https://www.youtube.com/@zakyy.m73" target="_blank" rel="noreferrer" className="fab fa-youtube w-10 h-10 flex items-center justify-center rounded-full bg-white/10 hover:bg-red-500/40 transition-all duration-300"></a>
+        <a href="https://www.youtube.com/@ZAATheKapten" target="_blank" rel="noreferrer" className="fab fa-youtube w-10 h-10 flex items-center justify-center rounded-full bg-white/10 hover:bg-red-500/40 transition-all duration-300"></a>
         <a href="https://wa.me/62896003777248" target="_blank" rel="noreferrer" className="fab fa-whatsapp w-10 h-10 flex items-center justify-center rounded-full bg-white/10 hover:bg-green-500/40 transition-all duration-300"></a>
       </div>
     </div>

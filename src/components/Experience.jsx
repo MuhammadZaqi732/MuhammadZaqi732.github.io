@@ -4,19 +4,19 @@ const Experience = () => {
   const items = [
     {
       title: "CV. Mediatama WEB",
-      time: "Nov 2023 - April 2024",
-      body: "- Developed web applications using PHP & Laravel.\n- Designed user interfaces using HTML, CSS, and Bootstrap."
+      time: "Nov 2023 - Jan 2024",
+      body: "- Developed web applications using PHP & Laravel.\n- Designed user interfaces with HTML, CSS, and Bootstrap based on functional requirements.",
     },
     {
       title: "Bumiminang Hotel",
       time: "May 2024 - Apr 2025",
-      body: "- Designed digital marketing strategies and produced visual/video content for social media and website.\n- Managed the hotel’s digital assets, including the website and promotional support systems."
+      body: "- Conducted internal system and promotional website testing to ensure optimal performance.\n- Provided technical support and troubleshooting for internal operational systems.\n- Collaborated with the development team to ensure system functionality and performance.",
     },
     {
       title: "Bootcamp - Sanbercode",
-      time: "Agus 2025 - Aug 2025",
-      body: "- Conducted manual and automated testing using Cypress and Postman.\n- Documented bugs thoroughly and completed a final QA project using the (POM) approach."
-    }
+      time: "Jul 2025 - Aug 2025",
+      body: "- Performed manual and automated testing using Cypress and Postman.\n- Created test plans, test scenarios, and test cases for various testing types including functional, regression, and integration testing.\n- Implemented the Page Object Model (POM) approach in automation testing.\n- Documented test results and reported bugs to the development team.",
+    },
   ];
 
   return (

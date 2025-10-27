@@ -37,6 +37,11 @@ const About = () => {
               Skilled in performing manual and automated software testing, documenting bugs, and ensuring application quality.
               Detail-oriented, analytical, quick to adapt to new technologies, and able to work independently or collaboratively in a team.
             </p>
+          <div className="inline-block bg-white/5 px-3 py-2 rounded-lg mt-3">
+          <p className="text-slate-200 leading-relaxed">
+            "Leveraging AI as a professional tool, not a replacement."
+            </p>
+          </div>
           </div>
 
           <div className="mt-8">
